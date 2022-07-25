@@ -10,6 +10,9 @@ variable "ec2_name" {
   default = "said-ec2"
 }
 
+variable "key_name" {
+  default = "firstkey"
+}
 variable "s3_bucket_name" {
   default = "said-s3-bucket"
 }
