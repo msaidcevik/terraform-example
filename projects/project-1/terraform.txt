@@ -1,0 +1,4 @@
+PROVIDER
+- Expose resources for specific infrastructure platform (e.g. AWS)
+- Responsible for understanding API of that platform
+- Just code that knoes how to talk to specific technology or platform
